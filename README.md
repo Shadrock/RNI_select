@@ -25,7 +25,7 @@ I had a vew null values in the matrix that I simply converted to 0 since I wasn'
 * Colombia: Freedom on net, OKFN
 * Denmark: Freedom on the net
 * Israel: freedom on the net
-* Lebanon:OKFN
+* Lebanon: OKFN
 * Myanmar: OKFN
 * Netherlands: Freedom on the net
 * New Zealand: Freedom on the net
