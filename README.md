@@ -5,7 +5,7 @@ This is my very first R code: a heatmap visualization for RNI city selection. Th
 * Learn the Github workflow for better Pirate/Ninja collaboration in the future.
 * Look cool.
 
-The R code was taken from the [Flowing Data tutorial](http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/) and I used auremoser's Pirateplotr repo as a template to set up a sensible (I hope) repo of my own.
+The R code was taken from the [Flowing Data tutorial](http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/) and I used [auremoser's Pirateplotr repo](https://github.com/auremoser/pirateplotr) as a template to set up a sensible (I hope) repo of my own.
 
 ## Key / Data sources
 The [.csv](https://github.com/Shadrock/RNI_select/blob/master/data/RNI.csv) contains data from:
