@@ -7,7 +7,7 @@ This is my very first R code: a heatmap visualization for RNI city selection. Th
 The R code was taken from the [Flowing Data tutorial](http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/) and I used auremoser's Pirateplotr repo as a template to set up a sensible (I hope) repo of my own.
 
 ## Key / Data sources
-The .csv contains data from:
+The [.csv](https://github.com/Shadrock/RNI_select/blob/master/data/RNI.csv) contains data from:
 * Mobile cellular subscriptions (per 100 people): [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.CEL.SETS.P2). 
 * Internet users (per 100 people): [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.NET.USER.P2)
 * Secure Internet servers (per 1 million people) [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.NET.SECR.P6) 
