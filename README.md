@@ -28,7 +28,7 @@ The [.csv](https://github.com/Shadrock/RNI_select/blob/master/data/RNI.csv) cont
 * USAID Urban Policy (priority level): [USAID](http://www.usaid.gov/sites/default/files/documents/1870/USAIDSustainableUrbanServicesPolicy.pdf) 
 
 ## Data processing notes:
-I used inverse transformation to standardize higher numbers are "more" or "better" across all data sets. The three data sets that required the transformation were Freedom on the Net, Freedom House, and OKFN. For USAID, I simply reversed the range of values since the scale was 0-4.
+I used inverse transformation to standardize higher numbers as "more" or "better" across all data sets. The three data sets that required the transformation were Freedom on the Net, Freedom House, and OKFN. For USAID, I simply reversed the range of values since the scale was 0-4.
 
 ### Note regarding null values
 I had a few null values in the matrix that I simply converted to 0 since I wasn't sure how to make R ignore certain cells or values. When I created the final graphic I manually changed the color of these cells in illustrator. The list of countries: variables with null values is:
