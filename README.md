@@ -7,6 +7,15 @@ This is my very first R code: a heatmap visualization for RNI city selection. Th
 
 The R code was taken from the [Flowing Data tutorial](http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/) and I used [auremoser's Pirateplotr repo](https://github.com/auremoser/pirateplotr) as a template to set up a sensible (I hope) repo of my own.
 
+## Output
+The R code creates the following output: 
+
+![RNI_R_output.png](https://raw.githubusercontent.com/Shadrock/RNI_select/b1f8c8beb99643be5d7f7c644669fca368c9ca42/Images/RNI_R_output.png) 
+
+I did a quick bit of finishing work in [Inkscape](http://www.inkscape.org/en/), including rotating the chart to reverse the order of observations and place them on the left. I hand-colored null values (note below) and added a few lables to get the following: 
+
+![RNI_finished_graphic.png](https://raw.githubusercontent.com/Shadrock/RNI_select/b1f8c8beb99643be5d7f7c644669fca368c9ca42/Images/RNI_finished_graphic.png) 
+
 ## Key / Data sources
 The [.csv](https://github.com/Shadrock/RNI_select/blob/master/data/RNI.csv) contains data from:
 * Mobile cellular subscriptions (per 100 people): [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.CEL.SETS.P2). 
@@ -14,9 +23,9 @@ The [.csv](https://github.com/Shadrock/RNI_select/blob/master/data/RNI.csv) cont
 * Secure Internet servers (per 1 million people) [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.NET.SECR.P6) 
 * Freedom on the Net: [Freedom House](http://freedomhouse.org/report/freedom-net-2013-global-scores#.UwqKBfldVEI) 
 * Freedom House Freedom Score: [Freedom House](http://www.freedomhouse.org/report/freedom-world/freedom-world-2013#.Uw5RtvldVEL) 
-* OKFN Open Data Rank: [Open Knowledge Foundation](https://index.okfn.org/country) 
-* Known Ushahidi Deployments: National level: [Ushahidi, internal list](https://docs.google.com/spreadsheet/ccc?key=0AikmHjO1VwoddEV2VGZxTHh1UE1YaGhtOG41ekhyTUE&usp=drive_web#gid=2) 
-* USAID Policy Priority Level: [USAID](http://www.usaid.gov/sites/default/files/documents/1870/USAIDSustainableUrbanServicesPolicy.pdf) 
+* Open Data (OKFN Rank): [Open Knowledge Foundation](https://index.okfn.org/country) 
+* Ushahidi Deployments: National level: [Ushahidi, internal list](https://docs.google.com/spreadsheet/ccc?key=0AikmHjO1VwoddEV2VGZxTHh1UE1YaGhtOG41ekhyTUE&usp=drive_web#gid=2) 
+* USAID Urban Policy (priority level): [USAID](http://www.usaid.gov/sites/default/files/documents/1870/USAIDSustainableUrbanServicesPolicy.pdf) 
 
 ## Data processing notes:
 I used inverse transformation to standardize higher numbers are "more" or "better" across all data sets. The three data sets that required the transformation were Freedom on the Net, Freedom House, and OKFN. For USAID, I simply reversed the range of values since the scale was 0-4.
