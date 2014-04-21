@@ -1,6 +1,6 @@
 RNI_select
 ==========
-This is my very first R code: a heatmap visualization for RNI city selection. Lacking specific, city-level data, I turned to national level data (sources below) to give me a feel for what these indicators _might_ look like in the cities that are currently on the [Rockefeller short-list](100resilientcities.rockefellerfoundation.org). The goal for creating this repo is to:
+This is my very first R code: a heatmap visualization for RNI city selection. Lacking specific, city-level data, I turned to national level data (sources below) to give me a feel for what these indicators _might_ look like in the cities that are currently on the [Rockefeller short-list](http://100resilientcities.rockefellerfoundation.org/blog/entry/33-resilient-cities-announced). The goal for creating this repo is to:
 * Start playing with R.
 * Learn the Github workflow for better Pirate/Ninja collaboration in the future.
 * Look cool.
