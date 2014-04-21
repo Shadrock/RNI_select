@@ -5,19 +5,19 @@ This is my very first R code: a heatmap visualization for RNI city selection. La
 * Learn the Github workflow for better Pirate/Ninja collaboration in the future.
 * Look cool.
 
-The [R code](https://github.com/Shadrock/RNI_select/blob/master/heatmap.r) was taken from the [Flowing Data tutorial](http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/) and I used [auremoser's Pirateplotr repo](https://github.com/auremoser/pirateplotr) as a template to set up a sensible (I hope) repo of my own.
+The [R code](/heatmap.r) was taken from the [Flowing Data tutorial](http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/) and I used [auremoser's Pirateplotr repo](https://github.com/auremoser/pirateplotr) as a template to set up a sensible (I hope) repo of my own.
 
 ## Output
-The [R code](https://github.com/Shadrock/RNI_select/blob/master/heatmap.r) creates the following output: 
+The [R code](/heatmap.r) creates the following output: 
 
-![RNI_R_output.png](https://raw.githubusercontent.com/Shadrock/RNI_select/b1f8c8beb99643be5d7f7c644669fca368c9ca42/Images/RNI_R_output.png) 
+![RNI_R_output.png](/Images/RNI_R_output.png) 
 
 I did a quick bit of finishing work in [Inkscape](http://www.inkscape.org/en/), including rotating the chart to reverse the order of observations and place them on the left. I hand-colored null values (note below) and added a few lables to get the following: 
 
-![RNI_finished_graphic.png](https://raw.githubusercontent.com/Shadrock/RNI_select/b1f8c8beb99643be5d7f7c644669fca368c9ca42/Images/RNI_finished_graphic.png) 
+![RNI_finished_graphic.png](Images/RNI_finished_graphic.png) 
 
 ## Key / Data sources
-The [.csv](https://github.com/Shadrock/RNI_select/blob/master/data/RNI.csv) contains data from:
+The [.csv](/data/RNI.csv) contains data from:
 * Mobile cellular subscriptions (per 100 people): [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.CEL.SETS.P2). 
 * Internet users (per 100 people): [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.NET.USER.P2)
 * Secure Internet servers (per 1 million people) [World Bank Development Indicators](http://data.worldbank.org/indicator/IT.NET.SECR.P6) 
