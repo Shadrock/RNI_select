@@ -25,9 +25,11 @@ The R code creates the following output:
 ![Raw Output](/Images/NatVar_Rplot.png) 
 
 I did a quick bit of finishing work in [Inkscape](http://www.inkscape.org/en/), including rotating the chart to reverse the order of observations: placing observations on the left; and adding a legend. I hand-colored null values (note below) and added a few lables to get the following: 
+
 ![Final Output](/Images/NatVar_Final.png) 
 
 Similar steps provided this output for city level data. 
+
 ![Final City Output](/Images/CityVar_Final.png) 
 
 ## Key / Data sources
