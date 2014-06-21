@@ -27,7 +27,7 @@ I did a quick bit of finishing work in [Inkscape](http://www.inkscape.org/en/), 
 
 ![Final Output](/Images/NatVar_Final.png) 
 
-Similar steps provided this output for city level data. 
+Similar steps provided similar output for city level data (excerpt below). 
 
 ![Final City Output](/Images/CityVar_Final.png) 
 
