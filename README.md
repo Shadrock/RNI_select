@@ -8,7 +8,7 @@ __The analysis prioritized the following cities:__
 ## The Process
 In this, two-step, process I began with national level data (see sources below) that suggested a climate conducive to RNI, then examined three primary variables available at the city level in those countries that had been identified. 
 
-At the national level the analysis focuses at the prevalence of technology (e.g. cell phones and Internet access) and existing programmatic connections. The goal was to get a general sense of which places had the most characteristics that would support an RNI project. 
+At the national level the analysis focuses at the prevalence of technology (e.g. cell phones and Internet access), governance, and existing programmatic connections. The goal was to get a general sense of which places had the most characteristics that would support an RNI project. 
 
 Based on this output, I then examined three primary variables available at the city level in those countries that had been identified from the national-level process:
 * known number of existing Rockefeller programs;
