@@ -2,8 +2,8 @@ RNI city selection
 ==========
 This is a repository for the data and “heatmap” analysis that prioritized outreach to candidate cities for the Resilience Network Initiative (RNI). RNI will initially work in 5 cities selected from the current (June, 2014) [Rockefeller short-list](http://100resilientcities.rockefellerfoundation.org/blog/entry/33-resilient-cities-announced). This analysis is not definitive and is only meant as a way to prioritize outreach for cities whose observable characteristics appear to be a good match for RNI or whose specific resilience challenges would be a good test case. Focus was given to existing programmatic connections to the Rockefeller Foundation and/or stakeholders who have signaled their interest in supporting RNI in their city.
 
-The analysis prioritized the following cities:
-Da Nang (Vietnam), Semarang (Indonesia), Mandalay (Myanmar), Medellin (Colombia), Boulder and New Orleans (USA), and Surat (India). 
+__The analysis prioritized the following cities:__
+*Da Nang* (Vietnam), *Semarang* (Indonesia), *Mandalay* (Myanmar), *Medellin* (Colombia), *Boulder* and *New Orleans* (USA), and *Surat* (India). 
 
 ## The Process
 In this, two-step, process I began with national level data (see sources below) that suggested a climate conducive to RNI, then examined three primary variables available at the city level in those countries that had been identified. 
