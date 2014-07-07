@@ -17,6 +17,8 @@ Based on this output, I then examined three primary variables available at the c
 
 Existing programs are important because they represent the potential for synergy and connections to existing local capacity. Outreach along programmatic lines has already lead to initial consultations with local stakeholders who have signaled their support for RNI programs in their city. Because the foundation of RNI is connecting community to government it is more likely that smaller bureaucracies will be easier to navigate and smaller cities will necessarily have smaller bureaucracies (though not necessarily more efficient or legible).
 
+Finally, Mandalay deserves special mention. One of the goals of RNI is to produce tools and methods that work in a variety of resilience contexts. Because it scored lowest in the ranking, Mandalay represents the opportunity to work in an incredibly challenging environment. Taking on a challenge of this nature would give RNI a test case for starting from scratch, versus building on the very high technical capacity and transparent governance of other cities. Mandalay was chosen as an outlier to counterbalance other cities.  
+
 ## Analysis & Outputs
 The analysis was conducted using the [statistical software, “R”](http://www.r-project.org/). The [R code](/heatmap.r) was taken from the [Flowing Data tutorial](http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/) and the code presented here is for the [.csv file for national-level data](/data/RNI_NatVar.csv). The same commands are applicable to the [.csv file for city level data](/data/RNI_CityVar.csv).
 
